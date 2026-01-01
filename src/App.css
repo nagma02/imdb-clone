@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+.App {
+  font-family: sans-serif;
+  background-color: #1f1f1f;
+}
+
