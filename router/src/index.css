@@ -1,0 +1,72 @@
+/* ---------- Global Reset ---------- */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* ---------- Body ---------- */
+body {
+  background-color: #333;
+  color: #333;
+}
+
+/* ---------- Common Container ---------- */
+div {
+  text-align: center;
+  padding: 30px;
+}
+
+/* ---------- Headings ---------- */
+h1 {
+  color: #ced6df;
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #abc7e4;
+  margin-bottom: 15px;
+}
+
+/* ---------- Paragraph ---------- */
+p {
+  margin-bottom: 20px;
+  font-size: 16px;
+}
+
+/* ---------- Input ---------- */
+input {
+  width: 300px;
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+/* ---------- Buttons ---------- */
+button {
+  margin-top: 20px;
+  padding: 10px 18px;
+  font-size: 14px;
+  background-color: #3498db;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2980b9;
+}
+
+/* ---------- List (KeyPoints & Quiz) ---------- */
+ul, ol {
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+li {
+  margin: 8px 0;
+}
